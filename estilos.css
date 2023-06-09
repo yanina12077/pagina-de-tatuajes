@@ -1,0 +1,19 @@
+body{
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+h1{ 
+    font-size: 200%;
+    font-style: italic;
+    text-align: center;
+    ;
+    }
+    
+
+.imagenprincipal{
+    width: 100%;
+    height: 400px;
+}
